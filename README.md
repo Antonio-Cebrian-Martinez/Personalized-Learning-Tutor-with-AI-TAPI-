@@ -1,7 +1,7 @@
 # Personalized-Learning-Tutor-with-AI-TAPI
 Building AI course project
-![image of a cat](./images/Idea4.0_Gemini.jpg)
-![image of a cat](./images/Idea1_ChatGPT.webp)
+![project logo](./Idea4.0_Gemini.jpg)
+![image](./Idea1_ChatGPT.webp)
 
 ## Summary
 Personalized Learning Tutor with AI (TAPI) is an artificial intelligence platform designed to provide personalized tutoring to students of all ages, adapting to their learning styles, level of knowledge, and emotional needs. It uses advanced AI to assess students' strengths and weaknesses and create individualized learning paths.
